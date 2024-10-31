@@ -5,7 +5,7 @@ I'm currently a student at the **University of Information Technology - Vietnam 
 In my spare time, I enjoy listening to music 🎶 and keeping up with the latest tech news 📱.
 
 📫 **How to reach me:**
-- [github.expenses874@simplelogin.com](mailto:github.expenses874@simplelogin.com)
+- [Email me](mailto:github.expenses874@simplelogin.com)
 - [LinkedIn](https://www.linkedin.com/in/thiennh23/)
 
 Here are a few ideas about me:
