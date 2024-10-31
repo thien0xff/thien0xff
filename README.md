@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**thien0xff/thien0xff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a student at the **University of Information Technology - Vietnam National University, Ho Chi Minh City**. Alongside my studies, I work as a **Flutter Developer** at [Pratek Company](https://pratek.vn/).
 
-Here are some ideas to get you started:
+In my spare time, I enjoy listening to music 🎶 and keeping up with the latest tech news 📱.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:**
+- [github.expenses874@simplelogin.com](mailto:github.expenses874@simplelogin.com)
+- [LinkedIn](https://www.linkedin.com/in/thiennh23/)
+
+Here are a few ideas about me:
+- 🔭 I’m currently working on leetcode, codeforces in this account.
+- 🌱 I’m currently learning more about Flutter, Java and Kotlin.
+- 👯 I’m looking to collaborate on any mobile app or interesting projects.
+- ⚡ Fun fact: I’m a huge fan of both coding and music; they’re the perfect pair!
